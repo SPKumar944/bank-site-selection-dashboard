@@ -9,6 +9,7 @@ An end-to-end geospatial intelligence pipeline and executive decision platform r
 ---
 
 ## 🚀 Live Access
+- **Three-location interactive comparison:** [Open the location dashboard](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_site_selection_dashboard.html)
 - **Interactive Web Dashboard:** [https://spkumar944.github.io/bank-site-selection-dashboard/](https://spkumar944.github.io/bank-site-selection-dashboard/)
 - **Priority 1 Area Report (14-Page PDF):** [madurai_kamarajar_salai_area_report.pdf](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_kamarajar_salai_area_report.pdf)
 - **Methodology & Data Note (7-Page PDF):** [madurai_bank_site_selection_report.pdf](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_bank_site_selection_report.pdf)

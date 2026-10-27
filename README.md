@@ -1,8 +1,8 @@
 # 🏛️ Madurai Retail Banking Site Selection & Expansion Dashboard
 
 [![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-0d9488?style=for-the-badge&logo=google-chrome)](https://spkumar944.github.io/bank-site-selection-dashboard/)
-[![Area Report PDF](https://img.shields.io/badge/PDF-14--Page_Report-ea580c?style=for-the-badge&logo=adobe-acrobat-reader)](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_kamarajar_salai_area_report.pdf)
-[![Methodology PDF](https://img.shields.io/badge/PDF-Methodology_Note-0b4f49?style=for-the-badge&logo=adobe-acrobat-reader)](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_bank_site_selection_report.pdf)
+[![Area Report PDF](https://img.shields.io/badge/PDF-16_pages-ea580c?style=for-the-badge&logo=adobe-acrobat-reader)](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_kamarajar_salai_area_report.pdf)
+[![Methodology PDF](https://img.shields.io/badge/PDF-9_pages-0b4f49?style=for-the-badge&logo=adobe-acrobat-reader)](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_bank_site_selection_report.pdf)
 
 An end-to-end geospatial intelligence pipeline and executive decision platform replicating the **Method v2** spatial suitability screening for retail banking expansion across Madurai Corporation.
 
@@ -11,8 +11,8 @@ An end-to-end geospatial intelligence pipeline and executive decision platform r
 ## 🚀 Live Access
 - **Three-location interactive comparison:** [Open the location dashboard](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_site_selection_dashboard.html)
 - **Interactive Web Dashboard:** [https://spkumar944.github.io/bank-site-selection-dashboard/](https://spkumar944.github.io/bank-site-selection-dashboard/)
-- **Priority 1 Area Report (14-Page PDF):** [madurai_kamarajar_salai_area_report.pdf](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_kamarajar_salai_area_report.pdf)
-- **Methodology & Data Note (7-Page PDF):** [madurai_bank_site_selection_report.pdf](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_bank_site_selection_report.pdf)
+- **Priority 1 Area Report (16-Page PDF):** [madurai_kamarajar_salai_area_report.pdf](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_kamarajar_salai_area_report.pdf)
+- **Methodology & Data Note (9-Page PDF):** [madurai_bank_site_selection_report.pdf](https://spkumar944.github.io/bank-site-selection-dashboard/madurai_bank_site_selection_report.pdf)
 
 ---
 
@@ -36,3 +36,7 @@ An end-to-end geospatial intelligence pipeline and executive decision platform r
 - **Demographics:** Census 2011 PCA ward totals grown to 2026 via GHS-POP and Google Open Buildings 2.5D.
 - **Physical Assets:** 132 Banks/ATMs, 418 Commercial retail nodes, 298 Institutional anchors, 1,381 Arterial segments.
 - **Footfall & Popular Times:** Google Maps Popular Times hourly profiles across Wednesday & Saturday trading windows.
+
+
+## Terms & company information
+The dashboard includes an expandable report-use and limitations section. Both linked PDFs include AGT Intelligence branding and a two-page terms section covering intended use, data and map limits, due diligence, IP and permitted use, public hosting/privacy, commercial engagement, liability, governing law and company contact information. These summaries are informational and are read with the official [AGT Terms of Use](https://agt-intelligence.com/terms), [Privacy Policy](https://agt-intelligence.com/privacy), and any signed engagement.
